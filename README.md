@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raijin-no-kage
+- 👋 Hi, I’m @ViniciusLCarvalho
 - 👀 I’m interested in get more knowledge
 - 🌱 I’m currently learning Java
 - 💞️ I intend to collaborate in the field of systems development
