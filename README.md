@@ -1,11 +1,12 @@
-## 👋 Hi, I’m @ViniciusLCarvalho
+## 👋 Hi, I’m Vinicius!
+<!--
 <div>
   <a href="https://github.com/ViniciusLCarvalho">
     <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLCarvalho&theme=transparent&count_private=true"/>
     <img height=180em src="https://github-readme-stats.vercel.app/api?username=ViniciusLCarvalho&show_icons=true&theme=transparent"/>
   </a>
 </div>  
-<!---
+
 ViniciusLCarvalho/ViniciusLCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
