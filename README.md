@@ -1,6 +1,6 @@
 ## Hi, I’m Vinicius! 👋
 
-- 🔭 I’m currently working as a Systems Development Analyst
+- 🔭 I’m currently working as a Java Developer
 - 🌱 I’m currently enhancing my knowledge of Java
 - ⚡ In my free time, I play video games, chess, and work out
 
@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/ViniciusLCarvalho">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=ViniciusLCarvalho&show_icons=true&theme=transparent"/>
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLCarvalho&theme=transparent&count_private=true"/>
+    <img height=180em src="https://github-stats-extended.vercel.app/api?username=ViniciusLCarvalho&show_icons=true&theme=transparent"/>
+    <img height=180em src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniciusLCarvalho&theme=transparent&count_private=true"/>
   </a>
 </div>
